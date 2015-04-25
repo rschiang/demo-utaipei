@@ -5,6 +5,7 @@ Demo
 * World
 
 * *COSCUP*
+* HITCON
 
 * SITCON
 * SITCON 2013
